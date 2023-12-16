@@ -142,6 +142,16 @@ function About() {
 
 <h1 className='abus'>About Us</h1>
 <h1 className='model'>The model offers a framework for discussing problems related to the user's experience, as well as possible ways and means of solving them. Application development begins at the top level (strategy), where the future software product is described quite abstractly from the point of view of the expectations of both users and the customer.</h1>
+<div className='numbers'>
+<p>800</p>
+<p>18</p>
+<p>6</p>
+</div>
+<div className='gaps'>
+ <h5>Pupils</h5>
+ <h5>Teachers</h5>
+ <h5>Foreign languages</h5>
+</div>
 
     </div>
   );

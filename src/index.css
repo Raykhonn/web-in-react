@@ -6,7 +6,7 @@
 	font-style: normal;
 }
 body {
-	height: 3000px;
+	height: 4600px;
 }
 .Navbar {
 	font-size: 36px;
@@ -290,6 +290,151 @@ body {
 	width: 600px;
 	color: #8f95a5;
 	font-size: 20px;
+	font-weight: 400;
+	line-height: normal;
+}
+.numbers {
+	position: absolute;
+	top: 2614px;
+	color: #2a3246;
+	font-size: 48px;
+	font-weight: 600;
+	line-height: 80px;
+	flex-direction: row;
+	align-items: space-between;
+	display: flex;
+	gap: 11rem;
+	left: 131px;
+}
+
+.gaps {
+	color: #8f95a5;
+	font-size: 20px;
+	position: absolute;
+	top: 2692px;
+	left: 148px;
+	font-weight: 400;
+	line-height: normal;
+	display: flex;
+	flex-direction: row;
+	gap: 11rem;
+}
+.price {
+	position: absolute;
+	top: 2950px;
+	left: 700px;
+}
+.pic7 {
+	top: 3087px;
+	left: 155px;
+	position: absolute;
+}
+.self {
+	color: #263238;
+	font-size: 30px;
+	top: 3438px;
+	left: 130px;
+	position: absolute;
+	font-weight: 600;
+	line-height: 48px;
+	width: 372px;
+}
+.over {
+	position: absolute;
+	top: 3505px;
+	left: 130px;
+	color: #8f95a5;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: normal;
+	width: 350px;
+}
+.btn4 {
+	position: absolute;
+	top: 3624px;
+	left: 130px;
+	width: 240px;
+	height: 45px;
+	border-radius: 5px;
+	background: #eee;
+	border: none;
+}
+.part2 {
+	position: absolute;
+	left: 420px;
+}
+
+.part3 {
+	position: absolute;
+	left: 900px;
+}
+.pic8 {
+	top: 3930px;
+	left: 112px;
+	position: absolute;
+}
+.us {
+	position: absolute;
+	top: 3963px;
+	left: 700px;
+}
+.disc {
+	position: absolute;
+	top: 4080px;
+	left: 700px;
+	color: #8f95a5;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: normal;
+	width: 600px;
+}
+#input {
+	position: absolute;
+	top: 4192px;
+	left: 700px;
+	width: 450px;
+	height: 80px;
+	border-radius: 10px;
+	border: 1px solid #8f95a5;
+	color: #8f95a5;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: normal;
+	text-align: center;
+}
+.btn5 {
+	position: absolute;
+	top: 4190px;
+	left: 1160px;
+	width: 264px;
+	height: 80px;
+	border-radius: 10px;
+	background: #263238;
+	color: #fff;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: normal;
+	border: none;
+}
+#line {
+	position: absolute;
+	top: 4492px;
+	left: 131px;
+	width: 1338px;
+	height: 1px;
+	background: #c4c4c4;
+}
+.pic9 {
+	position: absolute;
+	top: 4524px;
+	left: 131px;
+}
+.terms {
+	position: absolute;
+	top: 4525px;
+	left: 844px;
+	color: #8f95a5;
+	font-size: 24px;
 	font-weight: 400;
 	line-height: normal;
 }
