@@ -1,0 +1,295 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: 'Poppins', sans-serif;
+	font-style: normal;
+}
+body {
+	height: 3000px;
+}
+.Navbar {
+	font-size: 36px;
+	font-weight: 400;
+	position: absolute;
+	left: 129px;
+	top: 40px;
+	display: flex;
+}
+.menu {
+	width: 772px;
+	position: absolute;
+	left: 388px;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 500;
+	display: flex;
+	gap: 2rem;
+	top: 40px;
+}
+.talk {
+	width: 200px;
+	height: 70px;
+	border-radius: 5px;
+	border: 2px solid #263238;
+	position: absolute;
+	left: 1049px;
+	color: #000;
+	font-size: 24px;
+	font-weight: 400;
+	line-height: normal;
+}
+.fores {
+	font-size: 64px;
+	font-weight: 600;
+	line-height: 80px;
+	position: absolute;
+	left: 129px;
+	top: 226px;
+	display: flex;
+	align-items: center;
+	width: 386px;
+	height: 240px;
+}
+.pic1 {
+	width: 85.235px;
+	height: 85.235px;
+	position: absolute;
+	left: 470px;
+	top: 318px;
+}
+.sketch {
+	color: #8f95a5;
+	position: absolute;
+	top: 506px;
+	left: 127px;
+	font-size: 24px;
+	font-weight: 400;
+	line-height: normal;
+	display: flex;
+	width: 632px;
+	height: 108px;
+}
+.star {
+	position: absolute;
+	top: 675px;
+	left: 129px;
+	width: 438px;
+	height: 118px;
+	border-radius: 15px;
+	background: #263238;
+	color: #fff;
+	font-size: 36px;
+	font-weight: 400;
+	line-height: normal;
+	border: none;
+}
+.pic2 {
+	position: absolute;
+	width: 661px;
+	height: 661px;
+	top: 176px;
+	left: 816px;
+}
+.pic2:hover {
+	stroke: red;
+	fill: yellow;
+}
+.some {
+	position: absolute;
+	top: 940px;
+	left: 748px;
+}
+
+.card1 {
+	width: 435px;
+	height: 894px;
+	left: 126px;
+	top: 1070px;
+	position: absolute;
+	display: flex;
+	border-radius: 10px;
+	background: #f5f5f5;
+}
+.card2 {
+	width: 434px;
+	height: 531px;
+	left: 580px;
+	top: 1070px;
+	position: absolute;
+	display: flex;
+	justify-content: space-between;
+	border-radius: 10px;
+	background: #f5f5f5;
+}
+.card3 {
+	width: 435px;
+	height: 532px;
+	left: 1032px;
+	top: 1070px;
+	position: absolute;
+	display: flex;
+	justify-content: space-between;
+	border-radius: 10px;
+	background: #f5f5f5;
+}
+.card4 {
+	width: 885px;
+	height: 343px;
+	left: 580px;
+	top: 1620px;
+	position: absolute;
+	display: flex;
+	justify-content: space-between;
+	border-radius: 10px;
+	background: #f5f5f5;
+}
+.pic3:hover {
+	fill: green;
+	stroke: green;
+}
+.speak {
+	position: absolute;
+	color: #263238;
+	font-size: 30px;
+	font-weight: 600;
+	line-height: 80px;
+	top: 429px;
+	left: 43px;
+}
+.and {
+	position: absolute;
+	width: 300px;
+	color: #8f95a5;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: normal;
+	top: 514px;
+	left: 43px;
+}
+.btn1 {
+	position: absolute;
+	border: none;
+	width: 230px;
+	height: 60px;
+	border-radius: 5px;
+	background: #263238;
+	top: 742px;
+	left: 43px;
+	color: #fff;
+	font-size: 18px;
+	font-weight: 500;
+	line-height: normal;
+}
+.pic4 {
+	position: absolute;
+	top: 4px;
+	left: 122px;
+}
+.pic4:hover {
+	stroke: skyblue;
+	fill: beige;
+}
+.works {
+	position: absolute;
+	color: #263238;
+	font-size: 30px;
+	font-weight: 600;
+	line-height: 80px; /* 266.667% */
+	top: 251px;
+	left: 42px;
+}
+
+.most {
+	position: absolute;
+	color: #8f95a5;
+	font-size: 16px;
+	left: 41px;
+	top: 322px;
+	font-weight: 400;
+	line-height: normal;
+	width: 220px;
+}
+.btn2 {
+	position: absolute;
+	width: 218px;
+	height: 60px;
+	border-radius: 5px;
+	background: #263238;
+	color: #fff;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: normal;
+	border: none;
+	left: 41px;
+	top: 441px;
+}
+.pic5 {
+	position: absolute;
+	top: 44px;
+	left: 478px;
+}
+.pic5:hover {
+	stroke: purple;
+}
+.list {
+	position: absolute;
+	top: 43px;
+	left: 48px;
+	color: #263238;
+	font-size: 30px;
+	font-weight: 600;
+	line-height: 80px; /* 266.667% */
+}
+.most1 {
+	position: absolute;
+	color: #8f95a5;
+	font-size: 16px;
+	left: 48px;
+	top: 118px;
+	font-weight: 400;
+	line-height: normal;
+	width: 330px;
+}
+.btn3 {
+	position: absolute;
+	width: 218px;
+	height: 60px;
+	border-radius: 5px;
+	background: #263238;
+	color: #fff;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: normal;
+	border: none;
+	left: 44px;
+	top: 215px;
+}
+.pic6 {
+	position: absolute;
+	left: 960px;
+	top: 2262px;
+}
+.pic6:hover {
+	stroke: orange;
+	fill: orangered;
+}
+.abus {
+	position: absolute;
+	top: 2292px;
+	left: 131px;
+	color: #000;
+	font-size: 48px;
+	font-weight: 600;
+	line-height: 80px; /* 166.667% */
+}
+.model {
+	position: absolute;
+	top: 2395px;
+	left: 131px;
+	width: 600px;
+	color: #8f95a5;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: normal;
+}
